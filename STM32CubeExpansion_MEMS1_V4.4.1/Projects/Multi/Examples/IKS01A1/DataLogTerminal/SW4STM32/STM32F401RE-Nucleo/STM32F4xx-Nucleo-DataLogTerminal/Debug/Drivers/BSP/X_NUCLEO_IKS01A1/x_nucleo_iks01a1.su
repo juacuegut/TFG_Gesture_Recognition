@@ -1,0 +1,7 @@
+x_nucleo_iks01a1.c:345:16:I2C_EXPBD_Init	48	static
+x_nucleo_iks01a1.c:87:18:Sensor_IO_Init	48	static
+x_nucleo_iks01a1.c:108:18:LSM6DS0_Sensor_IO_ITConfig	0	static
+x_nucleo_iks01a1.c:124:18:LSM6DS3_Sensor_IO_ITConfig	72	static
+x_nucleo_iks01a1.c:169:18:LPS22HB_Sensor_IO_ITConfig	40	static
+x_nucleo_iks01a1.c:214:9:Sensor_IO_Write	56	static
+x_nucleo_iks01a1.c:280:9:Sensor_IO_Read	56	static
