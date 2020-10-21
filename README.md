@@ -1,7 +1,7 @@
 # TFG_Gesture_Recognition
 Sistema de control de versiones sobre el código desarrollado en el TFG.
 
-# CARPETAS:
+# Carpetas:
 
 **STM32CubeExpansion_MEMS1_V4.4.1**: Contiene ejemplos de uso de las tarjetas de expansión X-NUCLEO-IKS01A1 + NUCLEO-64 STM32F401RE.
 Para acceder a la carpeta donde se encuentra el ejemplo del acelerómetro funcionando como único sensor, utilizar la siguiente ruta:
