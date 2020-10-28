@@ -1,0 +1,14 @@
+custom_motion_sensors.c:46:9:CUSTOM_MOTION_SENSOR_Init	64	static
+custom_motion_sensors.c:110:9:CUSTOM_MOTION_SENSOR_DeInit	24	static
+custom_motion_sensors.c:136:9:CUSTOM_MOTION_SENSOR_GetCapabilities	24	static
+custom_motion_sensors.c:162:9:CUSTOM_MOTION_SENSOR_ReadID	24	static
+custom_motion_sensors.c:191:9:CUSTOM_MOTION_SENSOR_Enable	24	static
+custom_motion_sensors.c:230:9:CUSTOM_MOTION_SENSOR_Disable	24	static
+custom_motion_sensors.c:270:9:CUSTOM_MOTION_SENSOR_GetAxes	32	static
+custom_motion_sensors.c:310:9:CUSTOM_MOTION_SENSOR_GetAxesRaw	32	static
+custom_motion_sensors.c:350:9:CUSTOM_MOTION_SENSOR_GetSensitivity	32	static
+custom_motion_sensors.c:391:9:CUSTOM_MOTION_SENSOR_GetOutputDataRate	32	static
+custom_motion_sensors.c:431:9:CUSTOM_MOTION_SENSOR_GetFullScale	32	static
+custom_motion_sensors.c:471:9:CUSTOM_MOTION_SENSOR_SetOutputDataRate	32	static
+custom_motion_sensors.c:511:9:CUSTOM_MOTION_SENSOR_SetFullScale	32	static
+custom_motion_sensors.c:548:16:LSM6DSO_0_Probe	80	static

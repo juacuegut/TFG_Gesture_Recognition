@@ -1,0 +1,10 @@
+app_mems.c:85:6:MX_MEMS_Init	8	static
+app_mems.c:107:6:MX_MEMS_Process	8	static
+app_mems.c:124:6:MX_LSM6DSO_SelfTest_Init	16	static
+app_mems.c:149:6:BSP_PB_Callback	16	static
+app_mems.c:158:6:MX_LSM6DSO_SelfTest_Process	8	static
+app_mems.c:216:13:Sleep_Mode	8	static
+app_mems.c:227:16:LSM6DSO_X_SelfTest	88	static
+app_mems.c:405:16:LSM6DSO_G_SelfTest	88	static
+app_mems.c:584:16:LSM6DSO_X_Get_Data	24	static
+app_mems.c:613:16:LSM6DSO_G_Get_Data	24	static
