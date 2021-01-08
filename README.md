@@ -13,4 +13,4 @@ Para acceder a la carpeta donde se encuentra el ejemplo del acelerómetro funcio
 Una vez dentro, seleccionar el archivo .project (o .cproject) para importar el ejemplo al workspace de STM32CubeIDE.
 
 * **Accelerometer_I2C_SPLITTED**: Contiene los ficheros LSM6DS0_CUSTOM.c y LSM6DS0_CUSTOM.h, que permiten usar el Accelerometro LSM6DS0 en cualquier nuevo proyecto.
-Contiene además los ficheros retaget.c y retarget.h que implementan la función *printf*.
+Contiene además los ficheros retarget.c y retarget.h que implementan la función *printf*.
